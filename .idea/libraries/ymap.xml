@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ymap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidWearMap/libs/ymap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

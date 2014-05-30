@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\build\pre-dexed\debug\wearable-preview-support-5d47825c8dc08d23897cb4ded1d0591535c25e1f.jar"
+        jar="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\libs\wearable-preview-support.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="4f4678fce7b2869bee25328441563fc61037b6cc"/>
+    <item
+        dex="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\build\pre-dexed\debug\ymap-842c9ee9b9ea51e556f45e1c82c7b30c8039875b.jar"
+        jar="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\libs\ymap.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="1a266a19060d54555a41b6d8561d496ae8029859"/>
+    <item
+        dex="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\build\pre-dexed\debug\support-v4-18.0.0-c6628af811120cad45f0568a038ac1261a7a65c2.jar"
+        jar="C:\Users\maeda\AppData\Local\Android\android-studio1\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+    <item
+        dex="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\build\pre-dexed\debug\android-support-v4-8382d0806da4c6f09159418789953fe759fe29ff.jar"
+        jar="C:\Users\maeda\Documents\works\private\AndroidWearMap\AndroidWearMap\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd"/>
+
+</pre-dex-items>
